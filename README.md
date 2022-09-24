@@ -48,8 +48,8 @@ Fit the model and predict the single input
 ## PROGRAM
 ~~~
 ````
-# Developed By:Gowri M
-# Register Number:212220230019
+# Developed By:u.srinivas
+# Register Number:212221230108
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
